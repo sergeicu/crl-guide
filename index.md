@@ -24,7 +24,7 @@ Over time, new sections will be added such as:
 *   how to create a Jupyter Lab environment for remote work
 *   where to learn about Docker containers 
 
-**About this early draft:**
+**About this early draft:** 
 
 Currently, this guide is available in two formats - as a webpage (which is easily editable with _your _github profile) and as a Google Doc. In the coming weeks the single format of the webpage will be split into several subpages that are much easier to navigate.
 
