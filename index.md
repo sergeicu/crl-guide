@@ -46,7 +46,7 @@ If you are editing the Google Doc - please edit the Google Doc in 'suggesting mo
 
 ## <span style="text-decoration:underline;">Your CRL machine </span>
 
-<a href="subpages/your_crl_machine.md">LINK TEST</a>
+<a href="subpages/your_crl_machine.html">LINK TEST</a>
 
 
 ### CENTOS
