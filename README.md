@@ -1,9 +1,6 @@
-PLEASE VISIT: [WIKI](https://github.com/sergeicu/crl-guide/wiki) - we will migrate all content to wiki instead. 
+Will be merging this with: https://github.com/ComputationalRadiology/guide
 
-
---- 
-
-OLD (ignore)  
+-- 
 
 
 To view the web version of CRL Guide constructed from these files to go - [web-page](https://sergeicu.github.io/crl-guide/).   
